@@ -6,4 +6,4 @@ Explore the following model optimization techniques
 2. Pruning.
 3. Knowledge Distillation.
 # research ideas
-Hyperparameter optimization with pruning.
+Combining hyperparameter optimization with model optimization techniques.
